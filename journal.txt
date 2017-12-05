@@ -1,0 +1,27 @@
+2017-12-04 07:00 went for a run, then showered and ate and now I'm at work.
+
+2017-12-04 12:18 today at 12:16 pm
+I just realized that the problem I've been having setting the value of a python object is because the object actually only wraps another _meta_object, so I keep forgetting that I have to set the value to the sub object. Maybe wrapper objects are kust a bad idea?
+[D[D[A[A[B[B
+
+2017-12-04 12:19 ls
+
+2017-12-04 12:23 - on today
+
+2017-12-04 12:27 fart
+
+2017-12-04 12:27 I dont know why this doenst work sometimes
+
+2017-12-04 16:22 TODO: make pypi package for kupy
+
+2017-12-04 16:23 @TODO make pypi package for kupy
+
+2017-12-04 16:29 @todo finish kupy cli
+
+2017-12-04 16:32 @kupy_notes: I think that gipy can be extracted as a stand alone pygit2 api which can be used elsewhere.
+Kupy isnt practically useful outside the current project because of its dependance on tmply, which is useful only if you are willing to make a special repo for your kubernetes files and are also willing to use tmply sketches which are cool
+
+2017-12-04 16:33 @idea: Use gipy to pull down hosted journal and have a page on website that posts all entries.
+Maybe the site can use jrnl to get entries willy nilly
+
+2017-12-04 17:11 @todo finish implementing kupy api
