@@ -25,3 +25,15 @@ Kupy isnt practically useful outside the current project because of its dependan
 Maybe the site can use jrnl to get entries willy nilly
 
 2017-12-04 17:11 @todo finish implementing kupy api
+
+2017-12-05 15:06 today at 1pm I presented kupy in its current state to @alexquick.
+He liked it and gave me some suggestions. Then we did our one on one meeting and he oulined the 3 month plan
+
+2017-12-05 17:28 @TIL that you can make in-class decorators by having the inner function in the decorator accept a self, the syntactic magic python does makes this unclear
+
+2017-12-05 17:29 @todo Make kupy better and forceably inject it into opsbot
+
+2017-12-05 22:40 @todo figure out how to get the last pinned deployment and associate it with new deployments write function opsbot.opsbot.models.core.Deployment.last_one_like_me
+
+2017-12-05 22:41 I did a bunch today.
+kupy is looking sexy af. Gonna go to sleep now. Gotta get up early.
