@@ -37,3 +37,27 @@ He liked it and gave me some suggestions. Then we did our one on one meeting and
 
 2017-12-05 22:41 I did a bunch today.
 kupy is looking sexy af. Gonna go to sleep now. Gotta get up early.
+
+2017-12-10 16:11 @ notes
+
+2017-12-10 16:49 @notes
+
+I figured out how to use incluster config and authentication with python kubernetes
+
+``` python
+    from kubernetes import client, config
+
+    config.load_incluster_config()
+    v1_core = client.CoreV1Api()
+```
+
+This will be useful once bender is running on a kubernetes pod
+
+2017-12-28 22:29 @todo make indiviual containers with good entry points for worker and web.
+rewrite make file to build these up from a base image
+
+2017-12-28 22:29 @todo from yesterday
+
+2018-01-09 11:45 @todo rolout analytics to new build number
+
+2018-01-16 17:54 Play around with deploying the nginx ingress load-balancer-controller (~/projects/ingress-nginx from github.com/kubernetes/ingress-nginx)
