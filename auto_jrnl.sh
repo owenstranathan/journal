@@ -3,15 +3,17 @@ set -euo pipefail
 jrnl $@
 
 cwd="$(pwd)"
+echo $cwd
 DATE=`date '+%Y-%m-%d %H:%M'`
-{
-  cd ~/projects/journal
-  git add -u
-} & > /dev/null
-commit="$(sed -n '$p' <(git commit -m "$DATE"))"
-push="$(sed -n '$p' <(git push))"
+cd ~/projects/journal
+git add -u
 
-echo $commit
-echo $push
-cd ${cwd}
+git commit -m "$DATE" > commit
+git push > push
 
+echo $(sed -n '$p' commit)
+echo $(sed -n '$p' push)
+
+rm commit
+rm push
+cd $cwd

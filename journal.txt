@@ -98,3 +98,13 @@ opens the file at the EOF
 2018-03-12 17:47 I'm still trying things
 
 2018-03-12 17:48 Im still trying stuff
+
+2018-03-12 17:52 Im still trying stuff
+
+2018-03-12 17:53 Im still trying stuff
+
+2018-03-12 17:54 Im still trying stuff
+
+2018-03-12 17:55 Im still trying stuff
+
+2018-03-12 17:58 Im still trying stuff
