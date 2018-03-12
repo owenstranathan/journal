@@ -87,6 +87,10 @@ import logging # noqa # pylint: disable=unused-import
 
 2018-03-12 17:30 @oneliners
 
-`vim "+normal G$" a_file_to_edit.txt` 
+`vim "+normal G$" a_file_to_edit.txt`
 I
 opens the file at the EOF
+
+2018-03-12 17:37 Today I tried to do a thing
+
+2018-03-12 17:39 Today I tried to do a thing
