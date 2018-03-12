@@ -63,3 +63,30 @@ rewrite make file to build these up from a base image
 2018-01-16 17:54 Play around with deploying the nginx ingress load-balancer-controller (~/projects/ingress-nginx from github.com/kubernetes/ingress-nginx)
 
 2018-01-16 17:57 @game_dev DeadMan dodge ball (2D made with unity) GO!
+
+2018-01-20 16:52 @todo finish building the cluster
+
+2018-01-20 16:52 @todo write blog post abount time with kubernetes
+
+2018-01-20 16:53 @todo from today
+
+2018-03-01 17:31 @PEP8 You can force flake to ignore a line with an inline comment and with pyilnt
+
+2018-03-01 17:33 @PEP8 You can force flake to ignore a line with an inline comment
+
+2018-03-01 17:37 @PEP8
+
+Putting "noqa" in an inline comment forced flake to ignore errors on that line
+similarly putting "pylint: diable=THING" will cause pylint to ignore aswell
+
+Ex:
+
+``` python
+import logging # noqa # pylint: disable=unused-import
+```
+
+2018-03-12 17:30 @oneliners
+
+`vim "+normal G$" a_file_to_edit.txt` 
+I
+opens the file at the EOF
