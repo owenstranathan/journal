@@ -94,3 +94,7 @@ opens the file at the EOF
 2018-03-12 17:37 Today I tried to do a thing
 
 2018-03-12 17:39 Today I tried to do a thing
+
+2018-03-12 17:47 I'm still trying things
+
+2018-03-12 17:48 Im still trying stuff
