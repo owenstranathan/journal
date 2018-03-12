@@ -110,3 +110,5 @@ opens the file at the EOF
 2018-03-12 17:58 Im still trying stuff
 
 2018-03-12 17:59 testerino
+
+2018-03-12 18:02 test
