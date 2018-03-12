@@ -118,3 +118,5 @@ opens the file at the EOF
 2018-03-12 18:08 test
 
 2018-03-12 18:09 testing more
+
+2018-03-12 18:13 I make jrnl better
